@@ -8,7 +8,7 @@ Al momento de acceder a la plataforma, los usuarios podrán registrarse y crear 
 ●Planes con diferentes funciones
 
 ○Básico  
--Acceso limitado a cursos gratuitos
+- Acceso limitado a cursos gratuitos
 -Obtención de certificados bloqueado
  
  ○Premium: Acceso ilimitado a cursos tanto de pago como gratuitos, así como poder reclamar certificados al terminar los cursos.
