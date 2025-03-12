@@ -5,7 +5,8 @@ Eduflex es una plataforma de cursos online, que permite a los usuarios crear o i
 Al momento de acceder a la plataforma, los usuarios podrán registrarse y crear un usuario nuevo o acceder a uno ya existente.
 
 # 🖇 Características Principales
-● Planes con diferentes funciones  
+● Planes con diferentes funciones
+
 ○ Básico
 - Acceso limitado a cursos gratuitos
 - Obtención de certificados bloqueado
