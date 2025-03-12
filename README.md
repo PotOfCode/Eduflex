@@ -17,6 +17,6 @@ Al momento de acceder a la plataforma, los usuarios podrán registrarse y crear 
 - Obtención de certificados habilitada
 - Herramientas y funciones limitadas (laboratorios virtuales, portafolio digital, etc)
 
-● Soporte para cursos en vivo  
-● Foros temáticos
-● Desafíos Prácticos
+● Soporte para cursos en vivo<br>
+● Foros temáticos<br>
+● Desafíos Prácticos<br>
