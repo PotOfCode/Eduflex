@@ -18,9 +18,9 @@ Enfocado en un modelo Freemium, Eduflex ofrece un servicio gratuito inicial con 
 ● Básico
 - Acceso limitado a cursos gratuitos.
 - Obtención de certificados bloqueado.
-- Herramientas y funciones limitadas (laboratorios virtuales, portafolio digital, etc).
+- Herramientas y funciones extras limitadas (laboratorios virtuales, portafolio digital, etc).
  
 ● Premium
 - Acceso ilimitado a cursos tanto de pago como gratuitos.
 - Obtención de certificados habilitado.
-- Herramientas y funciones limitadas (laboratorios virtuales, portafolio digital, etc).
+- Herramientas y funciones extras habilitadas (laboratorios virtuales, portafolio digital, etc).
