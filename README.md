@@ -8,15 +8,18 @@ Al momento de acceder a la plataforma, los usuarios podrán registrarse y crear 
 ● Planes con diferentes funciones
 
 ○ Básico
-- Acceso limitado a cursos gratuitos
-- Obtención de certificados bloqueado
-- Herramientas y funciones limitadas (laboratorios virtuales, portafolio digital, etc)
+- Acceso limitado a cursos gratuitos.
+- Obtención de certificados bloqueado.
+- Herramientas y funciones limitadas (laboratorios virtuales, portafolio digital, etc).
  
 ○ Premium
-- Acceso ilimitado a cursos tanto de pago como gratuitos
-- Obtención de certificados habilitada
-- Herramientas y funciones limitadas (laboratorios virtuales, portafolio digital, etc)
+- Acceso ilimitado a cursos tanto de pago como gratuitos.
+- Obtención de certificados habilitado.
+- Herramientas y funciones limitadas (laboratorios virtuales, portafolio digital, etc).
 
+● Búsqueda por categorias de cursos<br>
+● Seguimiento del progreso en cada curso<br>
+● Creación y gestión de cursos<br>
 ● Soporte para cursos en vivo<br>
 ● Foros temáticos<br>
 ● Desafíos Prácticos<br>
